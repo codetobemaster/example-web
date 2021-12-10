@@ -1,0 +1,11 @@
+node_modules
+*.log
+
+# Coverage directory used by tools like istanbul
+coverage
+
+# Jest Clutter
+__snapshots__
+
+# Ignore build files
+dist
